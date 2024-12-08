@@ -9,6 +9,6 @@ To run this graph please get your OpenAI Api key at save it in the .env file wit
 ```
 
 Find the complete tutorial here
-https://youtu.be/8kuT80PTaGI?si=lFtXYhB65jqmcVS5
+https://youtu.be/ddf8TFTMGzE
 
 
